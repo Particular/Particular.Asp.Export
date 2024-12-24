@@ -23,7 +23,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" AutomaticVersionRange="false"/>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" AutomaticVersionRange="false"/>
     <PackageReference Include="NuGet.Protocol" Version="6.11.0" AutomaticVersionRange="false"/>
-    <PackageReference Include="Particular.Packaging" Version="3.0.0" PrivateAssets="All" />
+    <PackageReference Include="Particular.Packaging" Version="4.2.0" PrivateAssets="All" />
   </ItemGroup>
 
   <ItemGroup Label="Elevated transitive dependencies">
